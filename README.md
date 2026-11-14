@@ -1,0 +1,3 @@
+# Library Management System
+
+The Library Management System is a web-based application developed using Java, Spring Boot, JSP, Bootstrap, and MySQL. It is designed to manage book information, user details, book purchases, and purchase records efficiently. The application provides a user-friendly interface where users can browse available books and purchase them online. It also integrates the Razorpay payment gateway to support online payments. This project helped me gain practical experience in Java backend development, frontend and backend integration, database management, and payment gateway integration.
